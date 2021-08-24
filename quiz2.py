@@ -2,7 +2,7 @@
 """
 Date: 8-23-2021
 Twitter Link: https://twitter.com/labeveryday/status/1429469481559117826?s=20
-Results:
+Results: https://www.youtube.com/watch?v=rtR0B8npE4g
 
 Python quiz question for the day?
 
