@@ -18,7 +18,9 @@ D. 169
 
 """
 
+# Assign int and boolean values to variables x and y
 x = 13
 y = True
 
+# print results
 print(x + y)
