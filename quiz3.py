@@ -22,11 +22,12 @@ C. [1, 15, 23, 45]
 D. SyntaxError
 """
 
-# Assign list of integer data types to the nums variable
+
 nums = [23, 1, 15, 8, 24, 45, 24, 1]
 
-# Use the set function to remove duplicates from nums
 set(nums)
 
-# Print nums
+# If we execute this code, what is the result?
 print(nums)
+
+
